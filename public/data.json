@@ -1,0 +1,56 @@
+[
+    { 
+        "carModel": "Honda Civic",
+        "carOwner": "John Doe",
+        "carSummary": "Oil Change, rotate tires",
+        "srvsDate": "2019-01-28 13:30"
+    },
+    { 
+        "carModel": "Nissan Maxima",
+        "carOwner": "Sean Johnson",
+        "carSummary": "Touch up paint(front left door), change air filter",
+        "srvsDate": "2019-01-28 10:15"
+    },
+    { 
+        "carModel": "Toyota Camry",
+        "carOwner": "Philip Ransu",
+        "carSummary": "Replace windshield, check brakes",
+        "srvsDate": "2019-01-28 14:45"
+    },
+    { 
+        "carModel": "Dodge Charger",
+        "carOwner": "Nathan Cayden",
+        "carSummary": "Align tires, change break fluid",
+        "srvsDate": "2019-01-28 16:00"
+    },
+    { 
+        "carModel": "Lexus IS350",
+        "carOwner": "Mike Smith",
+        "carSummary": "Fix Hood, check oil",
+        "srvsDate": "2019-01-28 9:00"
+    },
+    { 
+        "carModel": "Ford Focus RS",
+        "carOwner": "Zee Carter",
+        "carSummary": "Check all fluids, replace rear bumber",
+        "srvsDate": "2019-01-29 13:15"
+    },
+    { 
+        "carModel": "Crysler 300",
+        "carOwner": "Doo Wee",
+        "carSummary": "change break fluid, replace front breaks",
+        "srvsDate": "2019-01-29 10:00"
+    },
+    { 
+        "carModel": "Ford Explorer",
+        "carOwner": "Howie Cadell",
+        "carSummary": "Replace motor brackets, check rear axel",
+        "srvsDate": "2019-01-29 11:45"
+    },
+    { 
+        "carModel": "Cadilac Escalade",
+        "carOwner": "Bob Marley",
+        "carSummary": "Change rear tires, replace headlights",
+        "srvsDate": "2019-01-29 16:00"
+    }
+]

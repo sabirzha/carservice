@@ -1,0 +1,46 @@
+.add-customer .card-body {
+  display: none;
+}
+
+.apt-addheading {
+  cursor: pointer;
+  user-select: none;
+}
+
+.apt-list-list {
+  font-size: 1.1em;
+}
+
+.apt-list .car-item {
+  border-bottom: 1px dotted gray;
+}
+
+.apt-list .car-item:last-child {
+  border-bottom: none;
+}
+
+.apt-list .car-model {
+  font-weight: 600;
+  color: #337ab7;
+  font-size: 1.3em;
+  line-height: 100%;
+}
+
+.apt-list .label-item {
+  font-weight: 600;
+  color: #667b82;
+}
+
+.apt-list .srvs-date {
+  font-style: italic;
+}
+
+.appointment-list .apt-notes {
+  line-height: 120%;
+}
+
+.dropdown-item.active,
+.dropdown-item:active {
+  background-color: #a9aeb2;
+}
+
